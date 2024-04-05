@@ -7,6 +7,10 @@ anoter item
 
 As you see I want to buy a lot of things.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+Non comiting merge from local repo.
+>>>>>>> Stashed changes
 =======
 Non comiting merge from local repo.
 >>>>>>> Stashed changes
