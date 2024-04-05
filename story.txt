@@ -1,6 +1,2 @@
-<<<<<<< Updated upstream
-Don't be fooled. There is a lot of text here. I mean it, really a lot. Edited!
-=======
 Don't be fooled. There is a lot of text here. I mean it, really a lot.
 Second Lind.
->>>>>>> Stashed changes
