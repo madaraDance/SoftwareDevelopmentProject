@@ -1,4 +1,3 @@
-Non conflicting comit from github.
 This is my shopping list and below each line represnets a thing I want to by.
 
 
@@ -6,11 +5,4 @@ This is my shopping list and below each line represnets a thing I want to by.
 anoter item
 
 As you see I want to buy a lot of things.
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
 Non comiting merge from local repo.
->>>>>>> Stashed changes
-=======
-Non comiting merge from local repo.
->>>>>>> Stashed changes
